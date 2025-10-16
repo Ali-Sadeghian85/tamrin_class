@@ -28,6 +28,7 @@ print(acc1)
 acc2=SavingAcconunt("Sara",2000)
 acc2=acc2.add_interest(10)
 print(acc2)
+print("Bye")
 
 
 
